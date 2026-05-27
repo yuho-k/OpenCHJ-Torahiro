@@ -7,8 +7,8 @@ OpenCHJ版「虎寛本狂言集」形態論情報データ
 同じ大蔵流台本「虎明本」（1642写、CHJ『室町時代編Ⅰ狂言』で検索可）との比較によって、室町末期から近世にかけての言語変化を窺い知ることができる点においても有用性のある資料です。
 
 本データの構築の詳細については、北﨑・渡辺・村山（2025）（[PDF](https://researchmap.jp/ufo/presentations/51540876)）をご参照ください。特に、以下の点にご留意ください。
-- 「虎明本」との比較検討を企図して、CHJ『室町時代編』に従った処理をしていること（[参照](https://clrd.ninjal.ac.jp/chj/muromachi.html#kyogen)）
-- 「末広がり」「止動方角」「宗論」のみがコアデータであり、その他の曲は、誤解析箇所の一括修正は行ったものの、未修正の箇所を多く残していること
+- 「虎明本」との比較検討を企図して、CHJ『室町時代編』（[参照](https://clrd.ninjal.ac.jp/chj/muromachi.html#kyogen)）に従った処理をしたこと
+- 「末広がり」「止動方角」「宗論」のみがコアデータであり、その他の曲は誤解析箇所の一括修正のみを行ったデータであること。
 
 ## 底本
 
@@ -77,7 +77,7 @@ sample_id,start,end,boundary,key,lForm,lemma,form,origchar,pos,cType,cForm,wType
 - 渡辺由貴（常葉大学, [URL](https://researchmap.jp/ywatanabe)）
 - 村山実和子（日本女子大学, [URL](https://researchmap.jp/mmurayama)）
 - 小木曽智信（国立国語研究所, [URL](https://researchmap.jp/togiso)）
-- コーパスの構築・公開にあたっては，髙橋雄太氏（国立国語研究所）、中村壮範氏（国立国語研究所）に協力を賜りました。
+- コーパスの構築・公開にあたっては、髙橋雄太氏（国立国語研究所）、中村壮範氏（国立国語研究所）に協力を賜りました。
 
 ## ライセンス
 
