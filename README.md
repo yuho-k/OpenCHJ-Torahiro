@@ -23,7 +23,7 @@ OpenCHJ版「虎寛本狂言集」形態論情報データ
 ## ファイル形式
 - 以下のファイルを提供しています。
 
-### openchj: 形態論付きデータ（CSV）
+### [openchj: 形態論付きデータ（CSV）](https://github.com/yuho-k/OpenCHJ-Torahiro/tree/main/openchj)
 - フィールド
   - sample_id: サンプルID
   - start: 開始位置
@@ -41,7 +41,7 @@ OpenCHJ版「虎寛本狂言集」形態論情報データ
   - speaker: 話者
   - page: 底本ページ数
 
-### texts: テキストデータ（行区切り）
+### [texts: テキストデータ（行区切り）](https://github.com/yuho-k/OpenCHJ-Torahiro/tree/main/texts)
 - text_rev: key列を結合したもの（踊り字を開く、誤字を修正するなどの校訂を施した本文）
 - text_orig: 原文文字列を結合したもの
 
